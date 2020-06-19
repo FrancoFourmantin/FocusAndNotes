@@ -1,2 +1,2 @@
 # FocusAndNotes
-Simple extensión para notas y objetivos
+Simple extensión para tomar notas y objetivos
